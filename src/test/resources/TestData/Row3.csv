@@ -1,0 +1,5 @@
+DepartureTime,ArrivalTime,StandardFare,FirstClassFare,TravelTime,InterChange
+13:26,13:36,$4.23,$6.22,10m,1 changes
+13:35,13:44,$4.23,null,10m,1 changes
+13:41,13:50,$4.23,null,10m,1 changes
+13:43,13:52,$4.23,$6.22,10m,1 changes

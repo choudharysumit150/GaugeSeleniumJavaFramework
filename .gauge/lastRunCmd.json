@@ -1,0 +1,8 @@
+[
+	"C:\\Program Files\\Gauge\\bin\\gauge.exe",
+	"run",
+	"--machine-readable",
+	"--hide-suggestion",
+	"--simple-console",
+	"E:/InterviewFrameworks/Nintex/Gauge_HybridFramework/specs/TrainLineHomePage.spec:65"
+]

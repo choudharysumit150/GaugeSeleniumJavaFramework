@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pages>
+    <page name="Home">
+        <uiElements>
+
+            <uiobject name="Home" type="xpath"><locator>//span[text()='Save an average of 51% when you book in advance']</locator></uiobject>
+            <uiobject name="FromLocation" type="xpath"><locator>//input[@type='search' and @aria-owns='stations_from']</locator></uiobject>
+            <uiobject name="DestinationLocation" type="xpath"><locator>//input[@type='search' and @aria-owns='stations_to']</locator></uiobject>
+            <uiobject name="DateOfTravel" type="id"><locator>page.journeySearchForm.outbound.title</locator></uiobject>
+            <uiobject name="Hours" type="name"><locator>hours</locator></uiobject>
+            <uiobject name="Minutes" type="name"><locator>minutes</locator></uiobject>
+            <uiobject name="GetTimeTickets" type="xpath"><locator>//button[@type='submit']</locator></uiobject>
+            <uiobject name="FromStationMandatoryError" type="xpath"><locator>//div[@data-test='empty-from-station']</locator></uiobject>
+            <uiobject name="ToStationMandatoryError" type="xpath"><locator>//div[@data-test='empty-to-station']</locator></uiobject>
+            <uiobject name="SwapLocation" type="xpath"><locator>//button[@aria-label='swap stations']</locator></uiobject>
+            <uiobject name="PastDateError" type="xpath"><locator>//div[@data-test='date-in-past-error-message']</locator></uiobject>
+            <uiobject name="PassengerSummary" type="id"><locator>passenger-summary-btn</locator></uiobject>
+            <uiobject name="Adults" type="name"><locator>adults</locator></uiobject>
+            <uiobject name="Childrens" type="name"><locator>children</locator></uiobject>
+            <uiobject name="ChildAge" type="xpath"><locator>//select[@aria-label='select child age']</locator></uiobject>
+            <uiobject name="PassengerSummaryMessage" type="xpath"><locator>//div[@class='_1cmvtfju']</locator></uiobject>
+
+        </uiElements>
+    </page>
+    <page name="SearchResults">
+        <uiElements>
+
+            <uiobject name="SearchResults" type="xpath"><locator>//button//span[text()='Change']</locator></uiobject>
+            <uiobject name="SearchResultList" type="xpath"><locator>//ul[@class='_h9wfdq']</locator></uiobject>
+            <uiobject name="ResultCount" type="xpath"><locator>//ul[@class='_h9wfdq']//li</locator></uiobject>
+            <uiobject name="FromStation" type="xpath"><locator>//header[@data-test='train-direction-header-OUTWARD']//span[@class='_f8rm39 undefined']</locator></uiobject>
+            <uiobject name="DestinationStation" type="xpath"><locator>//header[@data-test='train-direction-header-OUTWARD']//span[@class='_f8rm39 _36rlri']</locator></uiobject>
+            <uiobject name="CheapestPriceInList" type="xpath"><locator>//ul[@class='_h9wfdq']//li[*]//span[@data-test='cheapest-price-label']</locator></uiobject>
+            <uiobject name="CheapestPrice" type="xpath"><locator>//span[@data-test='cjs-price']</locator></uiobject>
+
+        </uiElements>
+    </page>
+
+</pages>

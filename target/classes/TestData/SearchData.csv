@@ -1,0 +1,3 @@
+FromCity,DestinationCity,TravelDate,Hours,Minutes,ResultsFile
+London Bridge,London Cannon Street,14-Jul-19,13,30,Row2.csv
+London Charing Cross,London Waterloo,14-Jul-19,13,30,Row3.csv

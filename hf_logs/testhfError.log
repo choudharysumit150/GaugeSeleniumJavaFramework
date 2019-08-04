@@ -1,0 +1,210 @@
+2019-06-14 16:51:33 ERROR DriverFactory:57 - Error in launching browser
+2019-06-14 16:51:38 ERROR Driver:40 - Error in closing web driver
+2019-06-14 16:56:25 ERROR DriverFactory:57 - Error in launching browser
+2019-06-14 16:56:29 ERROR Driver:40 - Error in closing web driver
+2019-06-14 18:43:16 ERROR Driver:40 - Error in closing web driver
+2019-06-14 19:28:38 ERROR DriverFactory:57 - Error in launching browser
+2019-06-14 19:28:44 ERROR Driver:40 - Error in closing web driver
+2019-06-14 19:30:15 ERROR VerifyAction:79 - TimeoutException - Page not found: MyAccount
+2019-06-14 19:30:43 ERROR VerifyAction:79 - TimeoutException - Page not found: MyAccount
+2019-06-14 19:49:15 ERROR VerifyAction:79 - TimeoutException - Page not found: MyAccount
+2019-06-14 19:49:46 ERROR VerifyAction:79 - TimeoutException - Page not found: MyAccount
+2019-06-14 19:55:01 ERROR Driver:40 - Error in closing web driver
+2019-06-15 14:29:47 ERROR Driver:40 - Error in closing web driver
+2019-06-15 14:33:15 ERROR Driver:40 - Error in closing web driver
+2019-06-15 14:49:19 ERROR Driver:40 - Error in closing web driver
+2019-06-15 14:53:24 ERROR Driver:40 - Error in closing web driver
+2019-06-15 14:56:11 ERROR Driver:40 - Error in closing web driver
+2019-06-15 14:57:13 ERROR Driver:40 - Error in closing web driver
+2019-06-15 14:59:24 ERROR Driver:40 - Error in closing web driver
+2019-06-15 15:02:52 ERROR Driver:40 - Error in closing web driver
+2019-06-15 15:05:17 ERROR Driver:40 - Error in closing web driver
+2019-06-15 15:27:13 ERROR Driver:40 - Error in closing web driver
+2019-06-15 15:32:59 ERROR NavigationAction:44 - Error in navigating to URL: ${app.url}
+2019-06-15 15:32:59 ERROR NavigationAction:45 - Malformed URL: ${app.url} is not a valid URL.
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'HP', ip: '192.168.1.242', os.name: 'Windows 8.1', os.arch: 'x86', os.version: '6.3', java.version: '1.8.0_152'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 67.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190607204818, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 4880, moz:profile: C:\Users\ABC\AppData\Local\..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.3, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a2643c13-951f-453c-8908-27cb40ebde21
+2019-06-15 15:33:03 ERROR NavigationAction:44 - Error in navigating to URL: ${app.url}
+2019-06-15 15:33:03 ERROR NavigationAction:45 - Malformed URL: ${app.url} is not a valid URL.
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'HP', ip: '192.168.1.242', os.name: 'Windows 8.1', os.arch: 'x86', os.version: '6.3', java.version: '1.8.0_152'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 67.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190607204818, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 4880, moz:profile: C:\Users\ABC\AppData\Local\..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.3, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a2643c13-951f-453c-8908-27cb40ebde21
+2019-06-15 15:33:05 ERROR NavigationAction:44 - Error in navigating to URL: ${app.url}
+2019-06-15 15:33:05 ERROR NavigationAction:45 - Malformed URL: ${app.url} is not a valid URL.
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'HP', ip: '192.168.1.242', os.name: 'Windows 8.1', os.arch: 'x86', os.version: '6.3', java.version: '1.8.0_152'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 67.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190607204818, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 4880, moz:profile: C:\Users\ABC\AppData\Local\..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.3, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a2643c13-951f-453c-8908-27cb40ebde21
+2019-06-15 15:34:05 ERROR Driver:40 - Error in closing web driver
+2019-06-15 15:37:58 ERROR Driver:40 - Error in closing web driver
+2019-06-15 15:42:53 ERROR DriverFactory:55 - Error in launching browser
+2019-06-15 15:42:57 ERROR Driver:40 - Error in closing web driver
+2019-06-15 15:45:49 ERROR DriverFactory:55 - Error in launching browser
+2019-06-15 15:48:34 ERROR DriverFactory:55 - Error in launching browser
+2019-06-15 15:51:44 ERROR DriverFactory:57 - Error in launching browser
+2019-06-15 15:52:09 ERROR DriverFactory:57 - Error in launching browser
+2019-06-15 15:52:16 ERROR DriverFactory:57 - Error in launching browser
+2019-06-15 16:03:40 ERROR NavigationAction:44 - Error in navigating to URL: ${app.url}
+2019-06-15 16:03:40 ERROR NavigationAction:45 - invalid argument
+  (Session info: chrome=75.0.3770.90)
+  (Driver info: chromedriver=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 153 milliseconds
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'HP', ip: '192.168.1.242', os.name: 'Windows 8.1', os.arch: 'x86', os.version: '6.3', java.version: '1.8.0_152'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:50691}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}), userDataDir=C:\Users\ABC\AppData\Local\Temp\scoped_dir6792_6579}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.90, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 92d05fa65c86fc39a8a274e604042be3
+2019-06-15 16:06:46 ERROR NavigationAction:44 - Error in navigating to URL: ${app.url}
+2019-06-15 16:06:46 ERROR NavigationAction:45 - invalid argument
+  (Session info: chrome=75.0.3770.90)
+  (Driver info: chromedriver=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 337 milliseconds
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'HP', ip: '192.168.1.242', os.name: 'Windows 8.1', os.arch: 'x86', os.version: '6.3', java.version: '1.8.0_152'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:50742}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}), userDataDir=C:\Users\ABC\AppData\Local\Temp\scoped_dir6712_26177}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.90, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e82aac28e14da7521243f758634d43d4
+2019-06-15 16:12:01 ERROR NavigationAction:44 - Error in navigating to URL: ${app.url}
+2019-06-15 16:12:01 ERROR NavigationAction:45 - invalid argument
+  (Session info: chrome=75.0.3770.90)
+  (Driver info: chromedriver=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 172 milliseconds
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'HP', ip: '192.168.1.242', os.name: 'Windows 8.1', os.arch: 'x86', os.version: '6.3', java.version: '1.8.0_152'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:50824}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}), userDataDir=C:\Users\ABC\AppData\Local\Temp\scoped_dir7780_9241}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.90, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 0c0114c8a5a3feb94fc22c1a18034245
+2019-06-15 16:15:24 ERROR VerifyAction:79 - TimeoutException - Page not found: Home
+2019-06-15 17:15:50 ERROR RepositoryContext:97 - Logout not found in repository
+2019-06-15 17:15:50 WARN  RepositoryContext:81 - Logout not found in repository
+2019-06-15 17:15:50 WARN  RepositoryContext:82 - Searching element Logout not found on page Home
+2019-06-15 17:15:50 ERROR NavigationAction:44 - Error in navigating to URL: https://www.thetrainline.com/
+2019-06-15 17:15:50 ERROR NavigationAction:45 - 
+2019-06-15 17:17:56 ERROR RepositoryContext:97 - Logout not found in repository
+2019-06-15 17:17:56 WARN  RepositoryContext:81 - Logout not found in repository
+2019-06-15 17:17:56 WARN  RepositoryContext:82 - Searching element Logout not found on page Home
+2019-06-15 17:17:56 ERROR NavigationAction:44 - Error in navigating to URL: https://www.thetrainline.com/
+2019-06-15 17:17:56 ERROR NavigationAction:45 - 
+2019-06-15 17:24:00 ERROR RepositoryContext:97 - Logout not found in repository
+2019-06-15 17:24:00 WARN  RepositoryContext:81 - Logout not found in repository
+2019-06-15 17:24:00 WARN  RepositoryContext:82 - Searching element Logout not found on page Home
+2019-06-15 17:24:00 ERROR NavigationAction:44 - Error in navigating to URL: https://www.thetrainline.com/
+2019-06-15 17:24:00 ERROR NavigationAction:45 - 
+2019-06-15 17:54:16 ERROR Driver:40 - Error in closing web driver
+2019-06-15 19:01:40 ERROR Driver:40 - Error in closing web driver
+2019-06-15 19:53:24 ERROR ButtonAction:47 - Error in clicking the object: GetTimeTickets
+2019-06-15 20:05:08 ERROR ButtonAction:47 - Error in clicking the object: GetTimeTickets
+2019-06-15 20:34:52 ERROR ButtonAction:47 - Error in clicking the object: GetTimeTickets
+2019-06-16 10:33:48 ERROR RepositoryContext:65 - SearchResultspage not fount in repository xml
+2019-06-16 10:33:48 WARN  RepositoryContext:81 - SearchResultspage not fount in repository xml
+2019-06-16 10:33:48 WARN  RepositoryContext:82 - Searching element SearchResults not found on page SearchResults
+2019-06-16 10:33:48 ERROR VerifyAction:82 - Error in finding Page SearchResults
+2019-06-16 13:00:47 ERROR VerifyAction:79 - TimeoutException - Page not found: SearchResults
+2019-06-16 13:16:40 ERROR VerifyAction:79 - TimeoutException - Page not found: SearchResults
+2019-06-16 17:41:06 ERROR ButtonAction:47 - Error in clicking the object: GetTimeTickets
+2019-06-17 21:31:36 ERROR ButtonActionSteps:46 - Search Result not matched with expected result Data Not Matched
+2019-06-17 22:07:24 ERROR VerifyAction:79 - TimeoutException - Page not found: SearchResults
+2019-06-17 22:11:06 ERROR VerifyAction:79 - TimeoutException - Page not found: SearchResults
+2019-06-17 22:13:57 ERROR ButtonActionSteps:46 - Search Result not matched with expected result Data Not Matched
+2019-06-17 23:52:42 ERROR ButtonActionSteps:46 - Search Result not matched with expected result Data Not Matched
+2019-06-17 23:53:12 ERROR VerifyAction:61 - TimeoutException - Page not found: SearchResults
+2019-06-18 00:02:44 ERROR ButtonActionSteps:46 - Search Result not matched with expected result Data Not Matched
+2019-06-18 00:03:25 ERROR VerifyAction:59 - TimeoutException - Page not found: SearchResults
+2019-06-18 19:18:52 ERROR VerifyAction:59 - TimeoutException - Page not found: Home
+2019-06-18 19:19:23 ERROR ButtonActionSteps:46 - Search Result not matched with expected result Data Not Matched
+2019-06-18 19:19:57 ERROR VerifyAction:59 - TimeoutException - Page not found: SearchResults
+2019-06-18 21:10:42 ERROR ButtonActionSteps:46 - Search Result not matched with expected result Data Not Matched
+2019-06-18 21:10:56 ERROR TypeAction:79 - Error in entering a value in textbox: DestinationLocation
+2019-06-18 21:17:19 ERROR ButtonActionSteps:46 - Search Result not matched with expected result Data Not Matched
+2019-06-18 21:17:46 ERROR ButtonActionSteps:46 - Search Result not matched with expected result Data Not Matched
+2019-06-18 21:56:10 ERROR VerifyAction:32 - TimeoutException - Object not found: FromStationMandatoryError
+2019-06-18 21:56:22 ERROR VerifyAction:32 - TimeoutException - Object not found: ToStationMandatoryError
+2019-06-18 21:59:11 ERROR VerifyAction:32 - TimeoutException - Object not found: FromStationMandatoryError
+2019-06-18 21:59:22 ERROR VerifyAction:32 - TimeoutException - Object not found: ToStationMandatoryError
+2019-06-18 22:44:39 ERROR VerifyAction:32 - TimeoutException - Object not found: SwapLocation
+2019-06-18 22:46:28 ERROR VerifyAction:32 - TimeoutException - Object not found: SwapLocation
+2019-06-18 22:48:28 ERROR VerifyAction:32 - TimeoutException - Object not found: SwapLocation
+2019-06-18 22:54:36 ERROR VerifyAction:32 - TimeoutException - Object not found: SwapLocation
+2019-06-18 23:03:54 ERROR VerifyAction:32 - TimeoutException - Object not found: SwapLocation
+2019-06-18 23:12:34 ERROR VerifyAction:85 - TimeoutException - Object not found: PastDateError
+2019-06-19 00:17:23 ERROR RepositoryContext:97 -  not found in repository
+2019-06-19 00:17:23 WARN  RepositoryContext:81 -  not found in repository
+2019-06-19 00:17:23 WARN  RepositoryContext:82 - Searching element  not found on page Home
+2019-06-19 00:17:23 ERROR VerifyAction:88 - Error in finding object 
+2019-06-19 00:17:43 ERROR RepositoryContext:97 -  not found in repository
+2019-06-19 00:17:43 WARN  RepositoryContext:81 -  not found in repository
+2019-06-19 00:17:43 WARN  RepositoryContext:82 - Searching element  not found on page Home
+2019-06-19 00:17:43 ERROR VerifyAction:88 - Error in finding object 
+2019-06-19 00:17:43 ERROR ButtonActionSteps:135 - All combinations are not matched All combinations not matched
+2019-06-19 00:19:11 ERROR RepositoryContext:97 -  not found in repository
+2019-06-19 00:19:11 WARN  RepositoryContext:81 -  not found in repository
+2019-06-19 00:19:11 WARN  RepositoryContext:82 - Searching element  not found on page Home
+2019-06-19 00:19:11 ERROR VerifyAction:88 - Error in finding object 
+2019-06-19 00:19:11 ERROR ButtonActionSteps:135 - All combinations are not matched All combinations not matched
+2019-06-19 00:21:29 ERROR RepositoryContext:97 -  not found in repository
+2019-06-19 00:21:29 WARN  RepositoryContext:81 -  not found in repository
+2019-06-19 00:21:29 WARN  RepositoryContext:82 - Searching element  not found on page Home
+2019-06-19 00:23:31 ERROR RepositoryContext:97 -  not found in repository
+2019-06-19 00:23:31 WARN  RepositoryContext:81 -  not found in repository
+2019-06-19 00:23:31 WARN  RepositoryContext:82 - Searching element  not found on page Home
+2019-06-19 00:23:31 ERROR VerifyAction:88 - Error in finding object 
+2019-06-19 00:23:31 ERROR ButtonActionSteps:135 - All combinations are not matched All combinations not matched
+2019-06-19 00:26:46 ERROR VerifyAction:85 - TimeoutException - Object not found: PassengerSummaryMessage
+2019-06-19 00:26:46 ERROR ButtonActionSteps:135 - All combinations are not matched All combinations not matched
+2019-06-19 00:29:02 ERROR VerifyAction:85 - TimeoutException - Object not found: PassengerSummaryMessage
+2019-06-19 00:29:02 ERROR ButtonActionSteps:135 - All combinations are not matched All combinations not matched
+2019-06-19 00:31:34 ERROR VerifyAction:85 - TimeoutException - Object not found: PassengerSummaryMessage
+2019-06-19 00:31:34 ERROR ButtonActionSteps:135 - All combinations are not matched All combinations not matched
+2019-06-19 00:57:39 ERROR SelectAction:34 - Error in selecting a value from dropdown Childrens
+2019-06-19 00:57:49 ERROR VerifyAction:85 - TimeoutException - Object not found: PassengerSummaryMessage
+2019-06-19 01:25:37 ERROR VerifyAction:32 - TimeoutException - Object not found: FromStationMandatoryError
+2019-06-19 01:25:48 ERROR VerifyAction:32 - TimeoutException - Object not found: ToStationMandatoryError
+2019-06-19 19:23:04 ERROR CustomAction:36 - Hyperlink is broken for : Terms & conditions
+2019-06-19 21:53:26 ERROR VerifyAction:32 - TimeoutException - Object not found: FromStationMandatoryError
+2019-06-19 21:53:37 ERROR VerifyAction:32 - TimeoutException - Object not found: ToStationMandatoryError
+2019-06-19 21:54:04 ERROR VerifyAction:32 - TimeoutException - Object not found: SwapLocation
+2019-06-19 21:56:07 ERROR CustomAction:62 - Not able to connect to  : https://www.thetrainline.com/trains/great-britain/railcardsconnect timed out
+2019-06-19 21:59:09 ERROR ButtonActionSteps:54 - Search Result not matched with expected result Data Not Matched
+2019-06-19 21:59:43 ERROR ButtonActionSteps:54 - Search Result not matched with expected result Data Not Matched
+2019-06-19 22:52:12 ERROR DriverFactory:60 - Error in launching browser
+2019-06-19 22:53:11 ERROR Driver:45 - Error in closing web driver
+2019-06-19 22:55:07 ERROR VerifyAction:32 - TimeoutException - Object not found: FromStationMandatoryError
+2019-06-19 22:55:17 ERROR VerifyAction:32 - TimeoutException - Object not found: ToStationMandatoryError
+2019-06-19 22:55:34 ERROR VerifyAction:32 - TimeoutException - Object not found: SwapLocation
+2019-06-19 23:00:42 ERROR NavigationAction:33 - Error in navigating to URL: https://www.thetrainline.com/
+2019-06-19 23:00:42 ERROR NavigationAction:34 - Timeout loading page after 300000ms
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'HP', ip: '192.168.1.242', os.name: 'Windows 8.1', os.arch: 'x86', os.version: '6.3', java.version: '1.8.0_152'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 67.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190618025334, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 10592, moz:profile: C:\Users\ABC\AppData\Local\..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.3, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 116b0293-71a4-4248-8699-f3e45914dd70
+2019-06-19 23:01:31 ERROR CustomAction:60 - URL is not formatted correctly : nullnull
+2019-06-19 23:02:48 ERROR ButtonActionSteps:54 - Search Result not matched with expected result Data Not Matched
+2019-06-19 23:09:07 ERROR VerifyAction:32 - TimeoutException - Object not found: FromStationMandatoryError
+2019-06-19 23:09:18 ERROR VerifyAction:32 - TimeoutException - Object not found: ToStationMandatoryError
+2019-06-19 23:09:35 ERROR VerifyAction:32 - TimeoutException - Object not found: SwapLocation
+2019-06-19 23:11:54 ERROR ButtonActionSteps:54 - Search Result not matched with expected result Data Not Matched
+2019-06-19 23:13:53 ERROR VerifyAction:32 - TimeoutException - Object not found: FromStationMandatoryError
+2019-06-19 23:14:03 ERROR VerifyAction:32 - TimeoutException - Object not found: ToStationMandatoryError
+2019-06-19 23:14:24 ERROR VerifyAction:32 - TimeoutException - Object not found: SwapLocation
+2019-06-19 23:16:25 ERROR CustomAction:62 - Not able to connect to  : https://www.thetrainline.com/information/mobile-ticketsconnect timed out
+2019-06-19 23:20:00 ERROR ButtonActionSteps:54 - Search Result not matched with expected result Data Not Matched
+2019-06-19 23:50:32 ERROR CustomAction:60 - URL is not formatted correctly : nullnull
+2019-06-19 23:53:13 ERROR VerifyAction:32 - TimeoutException - Object not found: FromStationMandatoryError
+2019-06-19 23:53:15 ERROR ButtonActionSteps:54 - Search Result not matched with expected result Data Not Matched
+2019-06-19 23:53:24 ERROR VerifyAction:32 - TimeoutException - Object not found: ToStationMandatoryError
+2019-06-19 23:53:46 ERROR VerifyAction:32 - TimeoutException - Object not found: SwapLocation
+2019-07-08 08:20:00 ERROR VerifyAction:32 - TimeoutException - Object not found: FromStationMandatoryError
+2019-07-08 08:20:10 ERROR VerifyAction:32 - TimeoutException - Object not found: ToStationMandatoryError
+2019-07-08 08:20:31 ERROR VerifyAction:32 - TimeoutException - Object not found: SwapLocation
+2019-07-08 08:26:10 ERROR ButtonActionSteps:54 - Search Result not matched with expected result Data Not Matched
+2019-07-08 08:26:44 ERROR ButtonActionSteps:54 - Search Result not matched with expected result Data Not Matched
+2019-07-08 08:41:44 ERROR VerifyAction:32 - TimeoutException - Object not found: FromStationMandatoryError
+2019-07-08 08:41:55 ERROR VerifyAction:32 - TimeoutException - Object not found: ToStationMandatoryError
+2019-07-08 08:42:15 ERROR VerifyAction:32 - TimeoutException - Object not found: SwapLocation
