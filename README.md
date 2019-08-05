@@ -46,18 +46,19 @@ Execute specifications by tags
 mvn test -Pdev -DspecsDir=specs -Dtags="logIn"
 
 Framework details:
+
 •	Specs (Specifications): In Gauge, we write our test cases as .spec files, I have created 2 test cases(spec):
-1. TrainLineHomePage.spec
-•	Verifying the mandatory fields of Search form
-•	Verifying the visibility logic and functionality of Swap location button
-•	Verifying the Past date should not be allowed
-•	Verifying the minimum and maximum no of passengers allowed
-•	Verifying that age of child should be greater than 4 if travelling single
-•	Getting broken links information if any on Home Page
+ 1. TrainLineHomePage.spec
+    •	Verifying the mandatory fields of Search form
+    •	Verifying the visibility logic and functionality of Swap location button
+    •	Verifying the Past date should not be allowed
+    •	Verifying the minimum and maximum no of passengers allowed
+    •	Verifying that age of child should be greater than 4 if travelling single
+    •	Getting broken links information if any on Home Page
 
 2.	TrainLineSearchResults.spec
-•	Verify user able to perform Search and validating the search results
-•	Getting broken links information if any on Search Result page
+   •	Verify user able to perform Search and validating the search results
+   •	Getting broken links information if any on Search Result page
 
 
 
@@ -65,23 +66,26 @@ Framework details:
 Instead of using typical POM for designing framework. I am maintaining objects, divided by pages in repository.xml
 
 •	Drivers :  
-Driver folder contains DriverFactory. It allows us to test application with different browsers like Chrome, Firefox and IE. However, I have tested my scripts only with Chrome.
+  Driver folder contains DriverFactory. It allows us to test application with different browsers like Chrome, Firefox and IE. However, I have   tested my scripts only with Chrome.
 
 User can pass browser using -Denv={browser_name} property and configure driver in /env/{browser_name}/browser.properties folder.
 
 •	TestData :  
-I have separated my test data from the scripts to make them more re-usable.
-TestData is available under src/test/resources
+  I have separated my test data from the scripts to make them more re-usable.
+  TestData is available under src/test/resources
 •	Reports :  
-Html reports are available in report folder
+  Html reports are available in report folder
+  
 All failed test steps will contain snapshot of the failure
  
 
 •	Logs :  
 Generating custom logs under hf_logs/ folders with below 3 logs.
-	testhfInfo.log: Contains Info logs
-	testhfRegression.log: Contains Debug logs
-	testhfError.log: Contains Error, Warn and Fatal
+  	testhfInfo.log: Contains Info logs
+  	testhfRegression.log: Contains Debug logs
+  	testhfError.log: Contains Error, Warn and Fatal
+
+
 Author
 Sumit Choudhary
 
