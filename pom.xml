@@ -15,7 +15,7 @@
         <restassured.version>3.0.7</restassured.version>
         <gauge.java.version>0.7.2</gauge.java.version>
         <junit.version>4.11</junit.version>
-        <jackson.annotations.version>2.9.4</jackson.annotations.version>
+        <jackson.annotations.version>2.11.0</jackson.annotations.version>
     </properties>
 
     <build>
