@@ -14,7 +14,7 @@
         <slf4j.version>1.7.25</slf4j.version>
         <restassured.version>3.0.7</restassured.version>
         <gauge.java.version>0.7.2</gauge.java.version>
-        <junit.version>4.11</junit.version>
+        <junit.version>4.13.1</junit.version>
         <jackson.annotations.version>2.9.4</jackson.annotations.version>
     </properties>
 
