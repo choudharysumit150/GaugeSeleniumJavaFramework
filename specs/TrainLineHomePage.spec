@@ -6,7 +6,7 @@ This is an executable specification file which follows markdown syntax.
 Every heading in this file denotes a scenario. Every bulleted point denotes a step.
 
 
-* User Navigate to application home
+* User Navigate to application home 
 
 Verifying the mandatory fields of Search form
 ----------------
